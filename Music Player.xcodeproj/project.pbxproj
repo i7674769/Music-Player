@@ -18,6 +18,7 @@
 		60FD17E41FBDB5FA008B80DA /* Pacific Whalesong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 60FD17E01FBDB5FA008B80DA /* Pacific Whalesong.mp3 */; };
 		60FD17E51FBDB5FA008B80DA /* Troposphere.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 60FD17E11FBDB5FA008B80DA /* Troposphere.mp3 */; };
 		60FD17E71FBDC0DB008B80DA /* Heartbeat Bass Line 08-11-2017.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 60FD17E61FBDC0DB008B80DA /* Heartbeat Bass Line 08-11-2017.mp3 */; };
+		60FD17E91FBF3A2C008B80DA /* Screen Shot 2017-11-17 at 15.39.02.png in Resources */ = {isa = PBXBuildFile; fileRef = 60FD17E81FBF3A2C008B80DA /* Screen Shot 2017-11-17 at 15.39.02.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		60FD17E01FBDB5FA008B80DA /* Pacific Whalesong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Pacific Whalesong.mp3"; sourceTree = "<group>"; };
 		60FD17E11FBDB5FA008B80DA /* Troposphere.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Troposphere.mp3; sourceTree = "<group>"; };
 		60FD17E61FBDC0DB008B80DA /* Heartbeat Bass Line 08-11-2017.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Heartbeat Bass Line 08-11-2017.mp3"; sourceTree = "<group>"; };
+		60FD17E81FBF3A2C008B80DA /* Screen Shot 2017-11-17 at 15.39.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2017-11-17 at 15.39.02.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				60FD17D21FBDB3D1008B80DA /* Assets.xcassets */,
 				60FD17D41FBDB3D1008B80DA /* LaunchScreen.storyboard */,
 				60FD17D71FBDB3D1008B80DA /* Info.plist */,
+				60FD17E81FBF3A2C008B80DA /* Screen Shot 2017-11-17 at 15.39.02.png */,
 				60FD17DD1FBDB5FA008B80DA /* App Songs */,
 			);
 			path = "Music Player";
@@ -82,8 +85,8 @@
 			isa = PBXGroup;
 			children = (
 				60FD17DE1FBDB5FA008B80DA /* Crystal Waters.mp3 */,
-				60FD17DF1FBDB5FA008B80DA /* Infinite Ocean.mp3 */,
 				60FD17E61FBDC0DB008B80DA /* Heartbeat Bass Line 08-11-2017.mp3 */,
+				60FD17DF1FBDB5FA008B80DA /* Infinite Ocean.mp3 */,
 				60FD17E01FBDB5FA008B80DA /* Pacific Whalesong.mp3 */,
 				60FD17E11FBDB5FA008B80DA /* Troposphere.mp3 */,
 			);
@@ -152,6 +155,7 @@
 				60FD17E41FBDB5FA008B80DA /* Pacific Whalesong.mp3 in Resources */,
 				60FD17E21FBDB5FA008B80DA /* Crystal Waters.mp3 in Resources */,
 				60FD17D61FBDB3D1008B80DA /* LaunchScreen.storyboard in Resources */,
+				60FD17E91FBF3A2C008B80DA /* Screen Shot 2017-11-17 at 15.39.02.png in Resources */,
 				60FD17E71FBDC0DB008B80DA /* Heartbeat Bass Line 08-11-2017.mp3 in Resources */,
 				60FD17E31FBDB5FA008B80DA /* Infinite Ocean.mp3 in Resources */,
 				60FD17D31FBDB3D1008B80DA /* Assets.xcassets in Resources */,
